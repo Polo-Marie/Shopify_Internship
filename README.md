@@ -20,11 +20,11 @@ Think about what could be going wrong with our calculation. Think about a better
 
     - Before adjustment of AOC:
 
-    ![](Pre_AOC_Adj.png)
+    ![](Photos/Pre_AOC_Adj.png)
 
     - After adjustment of AOC:
 
-    ![](Post_AOC_Adj.png)
+    ![](Photos/Post_AOC_Adj.png)
 
 
 ## Question 2: 
