@@ -51,8 +51,8 @@ For this question you’ll need to use SQL. Follow this link to access the data 
 - c. What product was ordered the most by customers in Germany? 
   - Answer: Gorgonzola Telino with 5 orders
 
-  - ![](Photos/2c1_sql)
-  
+  - ![](Photos/2c1_sql.png)
+
   - ![](Photos/2c_sql.png)
 
 SELECT ProductName, count(ProductName) AS "Product Count" 
