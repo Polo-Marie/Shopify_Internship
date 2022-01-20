@@ -18,9 +18,13 @@ Think about what could be going wrong with our calculation. Think about a better
 ### What is its value?
 - Once the outliers of orders consisting of 2000 items are removed, our revenue changes from $15,725,640 to 3,757,640 and our AOC changes from $3,145.13 to $754.09.
 
-- Before adjustment of AOC:
+    - Before adjustment of AOC:
 
-- After adjustment of AOC:
+    ![](Pre_AOC_Adj.png)
+
+    - After adjustment of AOC:
+
+    ![](Post_AOC_Adj.png)
 
 
 ## Question 2: 
